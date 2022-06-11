@@ -62,6 +62,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 [Aa]ssets/Plugins/
+[Aa]ssets/AssetImports/
 [Aa]ssets/Oculus/
 AuricaVRSandbox_BackUpThisFolder_ButDontShipItWithYourGame
 AuricaVRSandbox_BurstDebugInformation_DoNotShip
